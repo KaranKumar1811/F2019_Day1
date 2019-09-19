@@ -9,5 +9,10 @@ public class FirstDay
     b=20;
     c=a+b;
         System.out.println("Sum :"+ c);
+        int x=Integer.MAX_VALUE;
+        System.out.println("X :"+ x);
+         int y=x+1;
+        System.out.println("Y :"+y);
+        System.out.println("Min :"+Integer.MIN_VALUE);
     }
 }
