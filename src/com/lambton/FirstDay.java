@@ -14,5 +14,11 @@ public class FirstDay
          int y=x+1;
         System.out.println("Y :"+y);
         System.out.println("Min :"+Integer.MIN_VALUE);
+
+        Student s1=new Student();
+        s1.setvalue();
+        s1.display();
+
     }
+
 }
