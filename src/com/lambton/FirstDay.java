@@ -25,9 +25,9 @@ public class FirstDay
         s2.display();
 
         Student s3=new Student();
-        s2.studentID=3;
-        s2.studentname="Ankita";
-        s2.display();
+        s3.studentID=3;
+        s3.studentname="Ankita";
+        s3.display();
     }
 
 }
