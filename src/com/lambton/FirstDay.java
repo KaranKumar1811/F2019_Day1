@@ -28,6 +28,11 @@ public class FirstDay
         s3.studentID=3;
         s3.studentname="Ankita";
         s3.display();
+
+        for(int i=0;i<10;i++)
+        {
+            System.out.println("Karan Kumar");
+        }
     }
 
 }
